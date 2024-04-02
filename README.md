@@ -12,10 +12,10 @@ Currently, two official plugins are available:
 - After this ,openn the following terminal and execute the following command ini the terminal
 
 - Clone the repo
-- `git clone https://github.com/AskandaMahajan/IEEE_R10-YP-GEMS-Web-Team-Frontend-Task.git`
+- <`git clone https://github.com/AskandaMahajan/IEEE_R10-YP-GEMS-Web-Team-Frontend-Task.git`>
 
 - Get into that directory
--  `cd IEEE_R10-YP-GEMS-Web-Team-Frontend-Task`
+-  <`cd IEEE_R10-YP-GEMS-Web-Team-Frontend-Task`>
 
 -  Run the project on locally
--  `npm run dev`
+-  <`npm run dev`>
