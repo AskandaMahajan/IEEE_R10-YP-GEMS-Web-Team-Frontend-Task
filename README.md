@@ -9,15 +9,13 @@ Currently, two official plugins are available:
 
 - Here are the ways to host it locally, first open the submitted Github Repository link.
 - There you'll find this link ( https://github.com/AskandaMahajan/IEEE_R10-YP-GEMS-Web-Team-Frontend-Task.git ) under Code dropdown button ,so just copuy this link.
-- After this ,openn the following terminal and execute the following command ini the terminal
+- After this,open the following terminal and execute the following command ini the terminal
 
 - Clone the repo
  `git clone https://github.com/AskandaMahajan/IEEE_R10-YP-GEMS-Web-Team-Frontend-Task.git`
 
-
-
 - Get into that directory
--  <`cd IEEE_R10-YP-GEMS-Web-Team-Frontend-Task`>
+-  `cd IEEE_R10-YP-GEMS-Web-Team-Frontend-Task`
 
 -  Run the project on locally
--  <`npm run dev`>
+-  `npm run dev`
